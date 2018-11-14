@@ -1,7 +1,0 @@
-[21-Sep-2018 08:43:21 UTC] PHP Warning:  Error while sending QUERY packet. PID=389158 in /home/cosenzam/public_html/wp-includes/wp-db.php on line 1924
-[21-Sep-2018 08:43:55 UTC] PHP Warning:  Error while sending QUERY packet. PID=390230 in /home/cosenzam/public_html/wp-includes/wp-db.php on line 1924
-[21-Sep-2018 08:44:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=390979 in /home/cosenzam/public_html/wp-includes/wp-db.php on line 1924
-[21-Sep-2018 08:46:11 UTC] PHP Warning:  Error while sending QUERY packet. PID=390979 in /home/cosenzam/public_html/wp-includes/wp-db.php on line 1924
-[21-Sep-2018 08:48:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=392506 in /home/cosenzam/public_html/wp-includes/wp-db.php on line 1924
-[21-Sep-2018 08:50:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=392506 in /home/cosenzam/public_html/wp-includes/wp-db.php on line 1924
-[21-Sep-2018 08:50:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=393148 in /home/cosenzam/public_html/wp-includes/wp-db.php on line 1924
