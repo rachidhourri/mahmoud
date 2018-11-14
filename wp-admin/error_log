@@ -1,0 +1,20 @@
+[02-Jun-2018 11:35:04 UTC] PHP Warning:  copy(/home/cosenzam/public_html/wp-content/upgrade/ewww-image-optimizer.4.2.1-yzQXf3/ewww-image-optimizer/binaries/pngquant-sol): failed to open stream: No such file or directory in /home/cosenzam/public_html/wp-admin/includes/class-wp-filesystem-direct.php on line 243
+[02-Jun-2018 11:35:04 UTC] PHP Warning:  copy(/home/cosenzam/public_html/wp-content/upgrade/ewww-image-optimizer.4.2.1-yzQXf3/ewww-image-optimizer/binaries/pngquant-sol): failed to open stream: No such file or directory in /home/cosenzam/public_html/wp-admin/includes/class-wp-filesystem-direct.php on line 243
+[06-Jun-2018 19:36:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WPSEO_Admin_Asset_Yoast_Components_l10n' not found in /home/cosenzam/public_html/wp-content/plugins/wordpress-seo/admin/class-help-center.php:181
+Stack trace:
+#0 /home/cosenzam/public_html/wp-content/plugins/wordpress-seo/admin/class-help-center.php(69): WPSEO_Help_Center->enqueue_localized_data(Array)
+#1 /home/cosenzam/public_html/wp-content/plugins/wordpress-seo/admin/class-option-tabs-formatter.php(40): WPSEO_Help_Center->localize_data()
+#2 /home/cosenzam/public_html/wp-content/plugins/wordpress-seo/admin/class-option-tabs.php(105): WPSEO_Option_Tabs_Formatter->run(Object(WPSEO_Option_Tabs), Object(Yoast_Form))
+#3 /home/cosenzam/public_html/wp-content/plugins/wordpress-seo/admin/pages/dashboard.php(63): WPSEO_Option_Tabs->display(Object(Yoast_Form))
+#4 /home/cosenzam/public_html/wp-content/plugins/wordpress-seo/admin/menu/class-menu.php(87): require_once('/home/cosenzam/...')
+#5 /home/cosenzam/public_html/wp-content/plugins/wordpress-seo/admin/menu/class-menu.php(50): WPSEO_Menu->sho in /home/cosenzam/public_html/wp-content/plugins/wordpress-seo/admin/class-help-center.php on line 181
+[21-Aug-2018 23:42:26 UTC] PHP Fatal error:  Uncaught Exception: Expected single stylesheet key. in /home/cosenzam/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php:71
+Stack trace:
+#0 /home/cosenzam/public_html/wp-includes/class-wp-customize-manager.php(5312): WP_Customize_Custom_CSS_Setting->__construct(Object(WP_Customize_Manager), 'custom_css[Arch...', Array)
+#1 /home/cosenzam/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->register_controls(Object(WP_Customize_Manager))
+#2 /home/cosenzam/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /home/cosenzam/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/cosenzam/public_html/wp-includes/class-wp-customize-manager.php(926): do_action('customize_regis...', Object(WP_Customize_Manager))
+#5 /home/cosenzam/public_html/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->wp_loaded('')
+#6 /home/cosenzam/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /home/c in /home/cosenzam/public_html/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 71

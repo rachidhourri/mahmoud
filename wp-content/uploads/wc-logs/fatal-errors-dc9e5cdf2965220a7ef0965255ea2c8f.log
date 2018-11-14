@@ -1,0 +1,282 @@
+2018-03-18T01:34:25+00:00 CRITICAL Uncaught Exception: Expected single stylesheet key. in /Applications/MAMP/htdocs/wp-includes/customize/class-wp-customize-custom-css-setting.php:76
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(4225): WP_Customize_Custom_CSS_Setting->__construct(Object(WP_Customize_Manager), 'custom_css[Arch...', Array)
+#1 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(298): WP_Customize_Manager->register_controls(Object(WP_Customize_Manager))
+#2 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/MAMP/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(754): do_action('customize_regis...', Object(WP_Customize_Manager))
+#5 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(298): WP_Customize_Manager->wp_loaded('')
+#6 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#7 /Applications/M
+
+2018-03-18T01:34:28+00:00 CRITICAL Uncaught Exception: Expected single stylesheet key. in /Applications/MAMP/htdocs/wp-includes/customize/class-wp-customize-custom-css-setting.php:76
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(4225): WP_Customize_Custom_CSS_Setting->__construct(Object(WP_Customize_Manager), 'custom_css[Arch...', Array)
+#1 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(298): WP_Customize_Manager->register_controls(Object(WP_Customize_Manager))
+#2 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/MAMP/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(754): do_action('customize_regis...', Object(WP_Customize_Manager))
+#5 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(298): WP_Customize_Manager->wp_loaded('')
+#6 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#7 /Applications/M
+
+2018-03-18T01:37:05+00:00 CRITICAL Uncaught Exception: Expected single stylesheet key. in /Applications/MAMP/htdocs/wp-includes/customize/class-wp-customize-custom-css-setting.php:76
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(4225): WP_Customize_Custom_CSS_Setting->__construct(Object(WP_Customize_Manager), 'custom_css[Arch...', Array)
+#1 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(298): WP_Customize_Manager->register_controls(Object(WP_Customize_Manager))
+#2 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/MAMP/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(754): do_action('customize_regis...', Object(WP_Customize_Manager))
+#5 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(298): WP_Customize_Manager->wp_loaded('')
+#6 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#7 /Applications/M
+
+2018-03-18T02:27:47+00:00 CRITICAL Uncaught Exception: Expected single stylesheet key. in /Applications/MAMP/htdocs/wp-includes/customize/class-wp-customize-custom-css-setting.php:76
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(4225): WP_Customize_Custom_CSS_Setting->__construct(Object(WP_Customize_Manager), 'custom_css[Arch...', Array)
+#1 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(298): WP_Customize_Manager->register_controls(Object(WP_Customize_Manager))
+#2 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/MAMP/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(754): do_action('customize_regis...', Object(WP_Customize_Manager))
+#5 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(298): WP_Customize_Manager->wp_loaded('')
+#6 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#7 /Applications/M
+
+2018-03-18T02:38:35+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'services')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'services')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'services')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->rende
+
+2018-03-18T02:39:05+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'services')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'services')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'services')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->rende
+
+2018-03-18T02:39:20+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'services')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'services')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'services')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->rende
+
+2018-03-18T02:40:00+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'serviceslist')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'serviceslist')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'serviceslist')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_F
+
+2018-03-18T03:27:08+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'services')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'services')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'services')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->rende
+
+2018-03-18T03:30:33+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'services')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'services')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'services')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->rende
+
+2018-03-18T03:31:03+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'services2')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'services2')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'services2')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->re
+
+2018-03-18T03:35:47+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'services')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'services')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'services')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->rende
+
+2018-03-18T03:41:25+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'services')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'services')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'services')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->rende
+
+2018-03-18T03:54:02+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'services')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'services')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'services')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->rende
+
+2018-03-18T03:54:24+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'services3')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'services3')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'services3')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->re
+
+2018-03-18T03:54:43+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'services2')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'services2')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'services2')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->re
+
+2018-03-18T03:55:44+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3867
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_process(Array, '', 'process')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'process')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'process')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->render()
+
+
+2018-04-15T00:30:43+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'services')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'services')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'services')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->rende
+
+2018-04-15T03:00:21+00:00 CRITICAL Uncaught Exception: Expected single stylesheet key. in /Applications/MAMP/htdocs/wp-includes/customize/class-wp-customize-custom-css-setting.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(5312): WP_Customize_Custom_CSS_Setting->__construct(Object(WP_Customize_Manager), 'custom_css[Arch...', Array)
+#1 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->register_controls(Object(WP_Customize_Manager))
+#2 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/MAMP/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(926): do_action('customize_regis...', Object(WP_Customize_Manager))
+#5 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->wp_loaded('')
+#6 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /Applications/M
+
+2018-04-16T01:17:53+00:00 CRITICAL Uncaught Exception: Expected single stylesheet key. in /Applications/MAMP/htdocs/wp-includes/customize/class-wp-customize-custom-css-setting.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(5312): WP_Customize_Custom_CSS_Setting->__construct(Object(WP_Customize_Manager), 'custom_css[Arch...', Array)
+#1 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->register_controls(Object(WP_Customize_Manager))
+#2 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/MAMP/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(926): do_action('customize_regis...', Object(WP_Customize_Manager))
+#5 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->wp_loaded('')
+#6 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /Applications/M
+
+2018-04-19T01:14:58+00:00 CRITICAL Uncaught Exception: Expected single stylesheet key. in /Applications/MAMP/htdocs/wp-includes/customize/class-wp-customize-custom-css-setting.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(5312): WP_Customize_Custom_CSS_Setting->__construct(Object(WP_Customize_Manager), 'custom_css[Arch...', Array)
+#1 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->register_controls(Object(WP_Customize_Manager))
+#2 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/MAMP/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(926): do_action('customize_regis...', Object(WP_Customize_Manager))
+#5 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->wp_loaded('')
+#6 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /Applications/M
+
+2018-04-19T01:15:00+00:00 CRITICAL Uncaught Exception: Expected single stylesheet key. in /Applications/MAMP/htdocs/wp-includes/customize/class-wp-customize-custom-css-setting.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(5312): WP_Customize_Custom_CSS_Setting->__construct(Object(WP_Customize_Manager), 'custom_css[Arch...', Array)
+#1 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->register_controls(Object(WP_Customize_Manager))
+#2 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/MAMP/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(926): do_action('customize_regis...', Object(WP_Customize_Manager))
+#5 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->wp_loaded('')
+#6 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /Applications/M
+
+2018-04-19T01:15:02+00:00 CRITICAL Uncaught Exception: Expected single stylesheet key. in /Applications/MAMP/htdocs/wp-includes/customize/class-wp-customize-custom-css-setting.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(5312): WP_Customize_Custom_CSS_Setting->__construct(Object(WP_Customize_Manager), 'custom_css[Arch...', Array)
+#1 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->register_controls(Object(WP_Customize_Manager))
+#2 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/MAMP/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(926): do_action('customize_regis...', Object(WP_Customize_Manager))
+#5 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->wp_loaded('')
+#6 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /Applications/M
+
+2018-05-26T23:36:58+00:00 CRITICAL Uncaught Exception: Expected single stylesheet key. in /Applications/MAMP/htdocs/wp-includes/customize/class-wp-customize-custom-css-setting.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(5312): WP_Customize_Custom_CSS_Setting->__construct(Object(WP_Customize_Manager), 'custom_css[Arch...', Array)
+#1 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->register_controls(Object(WP_Customize_Manager))
+#2 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/MAMP/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(926): do_action('customize_regis...', Object(WP_Customize_Manager))
+#5 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->wp_loaded('')
+#6 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /Applications/M
+
+2018-05-26T23:37:04+00:00 CRITICAL Uncaught Exception: Expected single stylesheet key. in /Applications/MAMP/htdocs/wp-includes/customize/class-wp-customize-custom-css-setting.php:71
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(5312): WP_Customize_Custom_CSS_Setting->__construct(Object(WP_Customize_Manager), 'custom_css[Arch...', Array)
+#1 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->register_controls(Object(WP_Customize_Manager))
+#2 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /Applications/MAMP/htdocs/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /Applications/MAMP/htdocs/wp-includes/class-wp-customize-manager.php(926): do_action('customize_regis...', Object(WP_Customize_Manager))
+#5 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(286): WP_Customize_Manager->wp_loaded('')
+#6 /Applications/MAMP/htdocs/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#7 /Applications/M
+
+2018-05-27T01:31:00+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'services')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'services')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'services')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->rende
+
+2018-05-27T01:31:35+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'serviceslist')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'serviceslist')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'serviceslist')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_F
+
+2018-05-27T01:31:46+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3794
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param_services(Array, '', 'services2')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_category...', Array, '', 'services2')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_category...', Array, '', 'services2')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Edit_Form_Fields->re
+
+2018-05-28T03:22:16+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3053
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param(Array, '', 'portfolio_carou...')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_categori...', Array, '', 'portfolio_carou...')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_categori...', Array, '', 'portfolio_carou...')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Ed
+
+2018-05-28T03:22:58+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3053
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param(Array, '', 'portfolio_carou...')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_categori...', Array, '', 'portfolio_carou...')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_categori...', Array, '', 'portfolio_carou...')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Ed
+
+2018-05-28T03:23:27+00:00 CRITICAL Uncaught Error: Call to undefined function vc_generate_dependencies_attributes() in /Applications/MAMP/htdocs/wp-content/themes/Archi_[v3.4.1]/archi/vc_shortcode.php:3053
+Stack trace:
+#0 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(145): select_param(Array, '', 'portfolio_carou...')
+#1 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/params/params.php(207): WpbakeryShortcodeParams::renderSettingsField('select_categori...', Array, '', 'portfolio_carou...')
+#2 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(277): vc_do_shortcode_param_settings_field('select_categori...', Array, '', 'portfolio_carou...')
+#3 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/class-vc-edit-form-fields.php(233): Vc_Edit_Form_Fields->renderField(Array, '')
+#4 /Applications/MAMP/htdocs/wp-content/plugins/js_composer/include/classes/editors/popups/class-vc-shortcode-edit-form.php(71): Vc_Ed
+

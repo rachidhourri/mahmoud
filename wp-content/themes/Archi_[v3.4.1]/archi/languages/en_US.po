@@ -1,0 +1,1787 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Archi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-27 09:54+0000\n"
+"PO-Revision-Date: 2017-03-27 09:55+0000\n"
+"Last-Translator: ADAM <123@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: comments.php:20
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:21
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:27
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:38
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:40
+msgid "Name *"
+msgstr ""
+
+#: comments.php:41
+msgid "Email *"
+msgstr ""
+
+#: comments.php:43
+msgid "Comment *"
+msgstr ""
+
+#: comments.php:44
+msgid "Send Message"
+msgstr ""
+
+#: content-audio.php:16 content-gallery.php:27 content-image.php:23
+#: content-video.php:16 content.php:22
+msgid "Read More"
+msgstr ""
+
+#: functions.php:94
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:95
+msgid "One Page Menu"
+msgstr ""
+
+#: functions.php:96
+msgid "Landing Page Menu"
+msgstr ""
+
+#: functions.php:97
+msgid "Service Page Menu"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Lora, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:115
+msgctxt "Dosis font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:121
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:127
+msgctxt "Allura font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:133
+msgctxt "Raleway font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:291
+msgid "Primary Sidebar"
+msgstr ""
+
+#: functions.php:293 functions.php:302
+msgid "Appears in the sidebar section of the site."
+msgstr ""
+
+#: functions.php:300
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:309
+msgid "Footer One Widget Area"
+msgstr ""
+
+#: functions.php:311 functions.php:321 functions.php:331 functions.php:341
+msgid "Footer Widget that appears on the Footer."
+msgstr ""
+
+#: functions.php:319
+msgid "Footer Two Widget Area"
+msgstr ""
+
+#: functions.php:329
+msgid "Footer Three Widget Area"
+msgstr ""
+
+#: functions.php:339
+msgid "Footer Fourth Widget Area"
+msgstr ""
+
+#: page.php:49
+msgid "Pages:"
+msgstr ""
+
+#: page.php:53
+msgid "Page"
+msgstr ""
+
+#: page.php:67 page-templates/template-canvas.php:15
+#: page-templates/template-fullwidth.php:41
+#: page-templates/template-landing.php:19
+#: page-templates/template-onepage.php:24
+msgid "Page Canvas For Page Builder"
+msgstr ""
+
+#: search.php:11
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: search.php:45 page-templates/template-blog.php:60
+msgid "Nothing Found Here!"
+msgstr ""
+
+#: single-portfolio.php:42
+msgid "<i class=\"fa fa-angle-double-left\"></i>"
+msgstr ""
+
+#: single-portfolio.php:54
+msgid "<i class=\"fa fa-angle-double-right\"></i>"
+msgstr ""
+
+#: single-portfolio.php:71 single.php:136
+msgid "Share:"
+msgstr ""
+
+#: single-portfolio.php:91
+msgid "<i class=\"fa fa-chevron-left\"></i> Prev"
+msgstr ""
+
+#: single-portfolio.php:94
+msgid "Next <i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+#: single.php:120
+msgid "By : "
+msgstr ""
+
+#: single.php:131 single.php:162
+msgid "0 comment"
+msgstr ""
+
+#: single.php:131 single.php:162
+msgid "1 comment"
+msgstr ""
+
+#: single.php:131 single.php:162
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: single.php:155
+msgid "Older Post"
+msgstr ""
+
+#: single.php:156
+msgid "Newer Post"
+msgstr ""
+
+#: single.php:169
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: taxonomy-categories.php:10
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: framework/meta-boxes.php:18
+msgid "Format Details"
+msgstr ""
+
+#: framework/meta-boxes.php:25 framework/theme-custom-visual-template.php:51
+msgid "Image"
+msgstr ""
+
+#: framework/meta-boxes.php:32
+msgid "Gallery"
+msgstr ""
+
+#: framework/meta-boxes.php:38
+msgid "Quote"
+msgstr ""
+
+#: framework/meta-boxes.php:46
+msgid "Author"
+msgstr ""
+
+#: framework/meta-boxes.php:52
+msgid "Audio"
+msgstr ""
+
+#: framework/meta-boxes.php:61 framework/meta-boxes.php:98
+msgid "Video"
+msgstr ""
+
+#: framework/meta-boxes.php:74
+msgid "Gallery Settings"
+msgstr ""
+
+#: framework/meta-boxes.php:81
+msgid "Add Gallery"
+msgstr ""
+
+#: framework/meta-boxes.php:91
+msgid "Portfolio Format Details"
+msgstr ""
+
+#: framework/meta-boxes.php:107
+msgid "Background Image Page Sub-header"
+msgstr ""
+
+#: framework/meta-boxes.php:117
+msgid "Page Settings"
+msgstr ""
+
+#: framework/meta-boxes.php:124
+msgid "Background Image On Top Page"
+msgstr ""
+
+#: framework/plugin-requires.php:11
+msgid "Meta Box"
+msgstr ""
+
+#: framework/plugin-requires.php:18
+msgid "Redux Framework"
+msgstr ""
+
+#: framework/plugin-requires.php:25
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/plugin-requires.php:30
+msgid "Woocommerce"
+msgstr ""
+
+#: framework/plugin-requires.php:37
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: framework/plugin-requires.php:48
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/plugin-requires.php:59
+msgid "OT Themes One Click Import Demo"
+msgstr ""
+
+#: framework/plugin-requires.php:65
+msgid "OT Portfolios"
+msgstr ""
+
+#: framework/plugin-requires.php:71
+msgid "OT Testimonial"
+msgstr ""
+
+#: framework/plugin-requires.php:77
+msgid "OT Process"
+msgstr ""
+
+#: framework/plugin-requires.php:83
+msgid "OT Services"
+msgstr ""
+
+#: framework/plugin-requires.php:89
+msgid "OT Gallery"
+msgstr ""
+
+#: framework/sample-config.php:87
+msgid "Theme Information 1"
+msgstr ""
+
+#: framework/sample-config.php:88 framework/sample-config.php:93
+msgid "This is the tab content, HTML is allowed."
+msgstr ""
+
+#: framework/sample-config.php:92
+msgid "Theme Information 2"
+msgstr ""
+
+#: framework/sample-config.php:99
+msgid "This is the sidebar content, HTML is allowed."
+msgstr ""
+
+#: framework/sample-config.php:117
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: framework/sample-config.php:122
+msgid "Animation Off?"
+msgstr ""
+
+#: framework/sample-config.php:123 framework/sample-config.php:130
+#: framework/sample-config.php:167 framework/sample-config.php:247
+#: framework/sample-config.php:254 framework/sample-config.php:403
+#: framework/sample-config.php:542 framework/sample-config.php:549
+#: framework/sample-config.php:702 framework/sample-config.php:732
+#: framework/sample-config.php:788 framework/sample-config.php:913
+#: framework/sample-config.php:929
+msgid "Look, it's on!"
+msgstr ""
+
+#: framework/sample-config.php:129
+msgid "Enable Animation on Mobile?"
+msgstr ""
+
+#: framework/sample-config.php:136
+msgid "Mobile screen size for animation"
+msgstr ""
+
+#: framework/sample-config.php:137
+msgid "Animation will not active from screen size how much go down?"
+msgstr ""
+
+#: framework/sample-config.php:138
+msgid "Set Mobile Screen Size: 480, 768, 980, etc..."
+msgstr ""
+
+#: framework/sample-config.php:144
+msgid "Footer Widget Landing Page On?"
+msgstr ""
+
+#: framework/sample-config.php:145 framework/sample-config.php:292
+#: framework/sample-config.php:410 framework/sample-config.php:496
+#: framework/sample-config.php:936
+msgid "Look, it's off!"
+msgstr ""
+
+#: framework/sample-config.php:151
+msgid "Google Map API Key"
+msgstr ""
+
+#: framework/sample-config.php:152
+msgid "Add your Google map api key"
+msgstr ""
+
+#: framework/sample-config.php:153
+msgid ""
+"Create your Gmap API key here: https://developers.google."
+"com/maps/documentation/javascript/"
+msgstr ""
+
+#: framework/sample-config.php:161
+msgid "Preload Settings"
+msgstr ""
+
+#: framework/sample-config.php:166
+msgid "Preload Off?"
+msgstr ""
+
+#: framework/sample-config.php:173
+msgid "Preload Text Color"
+msgstr ""
+
+#: framework/sample-config.php:174
+msgid "Pick the preload text color (default: #111111)."
+msgstr ""
+
+#: framework/sample-config.php:181
+msgid "Preload Background Color"
+msgstr ""
+
+#: framework/sample-config.php:182
+msgid "Pick the preload background color (default: #000000)."
+msgstr ""
+
+#: framework/sample-config.php:191
+msgid "Logo & Favicon Settings"
+msgstr ""
+
+#: framework/sample-config.php:197 framework/sample-config.php:201
+msgid "Favicon"
+msgstr ""
+
+#: framework/sample-config.php:200
+msgid "Favicon."
+msgstr ""
+
+#: framework/sample-config.php:208
+msgid "Logo static on header normal"
+msgstr ""
+
+#: framework/sample-config.php:211
+msgid "logo for header normal, logo for header side navigation on mobile."
+msgstr ""
+
+#: framework/sample-config.php:212
+msgid "Logo static"
+msgstr ""
+
+#: framework/sample-config.php:219
+msgid "Logo scroll on header normal"
+msgstr ""
+
+#: framework/sample-config.php:222
+msgid "logo for header normal when scroll down page and use this logo."
+msgstr ""
+
+#: framework/sample-config.php:223
+msgid "Logo scroll is empty then will use Logo static to instead"
+msgstr ""
+
+#: framework/sample-config.php:230
+msgid "Logo on Header Side Navigation"
+msgstr ""
+
+#: framework/sample-config.php:233
+msgid "logo for header side navigation on desktop."
+msgstr ""
+
+#: framework/sample-config.php:234 framework/sample-config.php:1458
+msgid "Logo"
+msgstr ""
+
+#: framework/sample-config.php:241
+msgid "Topbar Header Settings"
+msgstr ""
+
+#: framework/sample-config.php:246
+msgid "Topbar One-Page Off?"
+msgstr ""
+
+#: framework/sample-config.php:253
+msgid "Topbar All Page Off?"
+msgstr ""
+
+#: framework/sample-config.php:260
+msgid "Topbar Text Color"
+msgstr ""
+
+#: framework/sample-config.php:261
+msgid "Pick the topbar text color (default: #ffffff)."
+msgstr ""
+
+#: framework/sample-config.php:268
+msgid "Topbar Border Bottom Color"
+msgstr ""
+
+#: framework/sample-config.php:269
+msgid "Pick the topbar border bottom color, default: rgba(255, 255, 255, 0.2)"
+msgstr ""
+
+#: framework/sample-config.php:278
+msgid "Topbar info text."
+msgstr ""
+
+#: framework/sample-config.php:279
+msgid "Add topbar info html text."
+msgstr ""
+
+#: framework/sample-config.php:286
+msgid "Header Settings"
+msgstr ""
+
+#: framework/sample-config.php:291
+msgid "Header Wide (FullWidth) On?"
+msgstr ""
+
+#: framework/sample-config.php:298
+msgid "Header Layouts"
+msgstr ""
+
+#: framework/sample-config.php:299
+msgid "Header layout"
+msgstr ""
+
+#: framework/sample-config.php:300
+msgid "Header layout : select header on top page or header on side left."
+msgstr ""
+
+#: framework/sample-config.php:311
+msgid "Header Position"
+msgstr ""
+
+#: framework/sample-config.php:312
+msgid "Header position use for Header layout: Header Normal."
+msgstr ""
+
+#: framework/sample-config.php:313
+msgid "Header position : select header on top page or header on bottom page."
+msgstr ""
+
+#: framework/sample-config.php:323
+msgid "Header Style"
+msgstr ""
+
+#: framework/sample-config.php:324
+msgid "Use with Header Layouts : Header Normal"
+msgstr ""
+
+#: framework/sample-config.php:325
+msgid "Select header style : Dark or Light or Overlay or Transparent."
+msgstr ""
+
+#: framework/sample-config.php:338
+msgid "Header Static Background Color"
+msgstr ""
+
+#: framework/sample-config.php:339
+msgid ""
+"Pick the header static background color for the theme (default: rgba(0,0,0,0."
+"5))."
+msgstr ""
+
+#: framework/sample-config.php:346
+msgid "Header Scroll Background Color"
+msgstr ""
+
+#: framework/sample-config.php:347
+msgid ""
+"Pick the header scroll background color for the theme (default: #18191b)."
+msgstr ""
+
+#: framework/sample-config.php:354
+msgid "Header Scroll Border Bottom Color"
+msgstr ""
+
+#: framework/sample-config.php:355
+msgid ""
+"Pick the header scroll Border Bottom color for the theme (default: #333333)."
+msgstr ""
+
+#: framework/sample-config.php:362
+msgid "Header Static Text Color"
+msgstr ""
+
+#: framework/sample-config.php:363
+msgid "Pick the header static text color for the theme (default: #fff)."
+msgstr ""
+
+#: framework/sample-config.php:370
+msgid "Header Scroll Text Color"
+msgstr ""
+
+#: framework/sample-config.php:371
+msgid "Pick the header scroll text color for the theme (default: #606060)."
+msgstr ""
+
+#: framework/sample-config.php:378
+msgid "Menu style"
+msgstr ""
+
+#: framework/sample-config.php:379
+msgid "Icon between menu items"
+msgstr ""
+
+#: framework/sample-config.php:380
+msgid "Select your menu style"
+msgstr ""
+
+#: framework/sample-config.php:395
+msgid "Header hide before scroll to show On?"
+msgstr ""
+
+#: framework/sample-config.php:396
+msgid ""
+"Look, it's off! , But just use for Header Position: Header on top and Header "
+"Layouts: Header Normal."
+msgstr ""
+
+#: framework/sample-config.php:402
+msgid "Desktop Header Sticky Off?"
+msgstr ""
+
+#: framework/sample-config.php:409
+msgid "Mobile Header Sticky On?"
+msgstr ""
+
+#: framework/sample-config.php:417
+msgid "Header Mobile Styling"
+msgstr ""
+
+#: framework/sample-config.php:424
+msgid "Header Mobile Background Color"
+msgstr ""
+
+#: framework/sample-config.php:425
+msgid "Pick the header background color for the theme."
+msgstr ""
+
+#: framework/sample-config.php:432
+msgid "Header Mobile Text Color"
+msgstr ""
+
+#: framework/sample-config.php:433
+msgid "Pick the header text color for the theme."
+msgstr ""
+
+#: framework/sample-config.php:440
+msgid "Header Mobile Border Menu Item Color"
+msgstr ""
+
+#: framework/sample-config.php:441
+msgid "Pick the header mobile border bottom menu item color."
+msgstr ""
+
+#: framework/sample-config.php:448
+msgid "Button Menu Color"
+msgstr ""
+
+#: framework/sample-config.php:449
+msgid "Pick the button menu color."
+msgstr ""
+
+#: framework/sample-config.php:456
+msgid "Button Menu Background Color"
+msgstr ""
+
+#: framework/sample-config.php:457
+msgid "Pick the button menu background color."
+msgstr ""
+
+#: framework/sample-config.php:465
+msgid "Header Side Navigation"
+msgstr ""
+
+#: framework/sample-config.php:472
+msgid "Header Border Menu Item Color"
+msgstr ""
+
+#: framework/sample-config.php:473
+msgid "Use for Header Side Navigation(default: #1b1b1b)."
+msgstr ""
+
+#: framework/sample-config.php:480
+msgid "Add your contact info extend on bottom header."
+msgstr ""
+
+#: framework/sample-config.php:481
+msgid "Add your contact info html code here."
+msgstr ""
+
+#: framework/sample-config.php:488
+msgid "Dropdown Menu Style"
+msgstr ""
+
+#: framework/sample-config.php:495
+msgid "Do you want to customize the dropdown menu, On?"
+msgstr ""
+
+#: framework/sample-config.php:502
+msgid "Dropdown Menu Width"
+msgstr ""
+
+#: framework/sample-config.php:503
+msgid "Add your dropdown menu width"
+msgstr ""
+
+#: framework/sample-config.php:504
+msgid "Change your sub menu (dropdown menu) width, default: 220"
+msgstr ""
+
+#: framework/sample-config.php:510
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: framework/sample-config.php:511
+msgid "Background color"
+msgstr ""
+
+#: framework/sample-config.php:518
+msgid "Dropdown Menu Item Text Color"
+msgstr ""
+
+#: framework/sample-config.php:519
+msgid "Menu item text color"
+msgstr ""
+
+#: framework/sample-config.php:526
+msgid "Dropdown Border Color"
+msgstr ""
+
+#: framework/sample-config.php:527
+msgid "Border menu item color"
+msgstr ""
+
+#: framework/sample-config.php:536
+msgid "Sub-Header Settings"
+msgstr ""
+
+#: framework/sample-config.php:541
+msgid "Sub-Pages Off?"
+msgstr ""
+
+#: framework/sample-config.php:548
+msgid "Breadcrumb on Sub-Pages Off?"
+msgstr ""
+
+#: framework/sample-config.php:556 framework/sample-config.php:560
+msgid "Background Header All Pages"
+msgstr ""
+
+#: framework/sample-config.php:559
+msgid "Background Header on All Pages"
+msgstr ""
+
+#: framework/sample-config.php:566
+msgid "Sub-Pages Text Color"
+msgstr ""
+
+#: framework/sample-config.php:567
+msgid "Pick the topbar text color (default: #eceff3)."
+msgstr ""
+
+#: framework/sample-config.php:574
+msgid "Sub-Pages Background Color"
+msgstr ""
+
+#: framework/sample-config.php:575
+msgid "Pick the topbar border bottom color, default: #222"
+msgstr ""
+
+#: framework/sample-config.php:584
+msgid "Typography"
+msgstr ""
+
+#: framework/sample-config.php:590
+msgid "Heading 1"
+msgstr ""
+
+#: framework/sample-config.php:591
+msgid "Specify the heading 1 font properties."
+msgstr ""
+
+#: framework/sample-config.php:605
+msgid "Heading 2"
+msgstr ""
+
+#: framework/sample-config.php:606
+msgid "Specify the heading 2 font properties."
+msgstr ""
+
+#: framework/sample-config.php:620
+msgid "Heading 3"
+msgstr ""
+
+#: framework/sample-config.php:621
+msgid "Specify the heading 3 font properties."
+msgstr ""
+
+#: framework/sample-config.php:635
+msgid "Heading 4"
+msgstr ""
+
+#: framework/sample-config.php:636
+msgid "Specify the heading 4 font properties."
+msgstr ""
+
+#: framework/sample-config.php:650
+msgid "Heading 5"
+msgstr ""
+
+#: framework/sample-config.php:651
+msgid "Specify the heading 5 font properties."
+msgstr ""
+
+#: framework/sample-config.php:665
+msgid "Heading 6"
+msgstr ""
+
+#: framework/sample-config.php:666
+msgid "Specify the heading 6 font properties."
+msgstr ""
+
+#: framework/sample-config.php:680
+msgid "Menu item"
+msgstr ""
+
+#: framework/sample-config.php:681
+msgid "Specify the Menu item font properties."
+msgstr ""
+
+#: framework/sample-config.php:696
+msgid "Portfolio Settings"
+msgstr ""
+
+#: framework/sample-config.php:701
+msgid "Portfolio Ajax Load content on page?"
+msgstr ""
+
+#: framework/sample-config.php:703
+msgid ""
+"Use for Portfolio in home page, Load Ajax Popup Content or Link out single "
+"Portfolio."
+msgstr ""
+
+#: framework/sample-config.php:710
+msgid "Portfolio Archive Page"
+msgstr ""
+
+#: framework/sample-config.php:717
+msgid "Background Portfolio on Top Page"
+msgstr ""
+
+#: framework/sample-config.php:718
+msgid "Background Portfolio Archive page and Portfolio Category page."
+msgstr ""
+
+#: framework/sample-config.php:724
+msgid "Title in Portfolio Archive Page "
+msgstr ""
+
+#: framework/sample-config.php:731
+msgid "Portfolio Filter Off?"
+msgstr ""
+
+#: framework/sample-config.php:738
+msgid "Text Show All"
+msgstr ""
+
+#: framework/sample-config.php:745
+msgid "Show Posts"
+msgstr ""
+
+#: framework/sample-config.php:752
+msgid "Portfolio Columns style"
+msgstr ""
+
+#: framework/sample-config.php:753
+msgid "Select Portfolio Columns style."
+msgstr ""
+
+#: framework/sample-config.php:754
+msgid "Default show portfolio archive page is grid 4 columns."
+msgstr ""
+
+#: framework/sample-config.php:768
+msgid "Portfolio Single Page"
+msgstr ""
+
+#: framework/sample-config.php:775
+msgid "Previous/next post navigation"
+msgstr ""
+
+#: framework/sample-config.php:776
+msgid "Select navigation style single portfolio."
+msgstr ""
+
+#: framework/sample-config.php:777
+msgid "Default navigation on top single page."
+msgstr ""
+
+#: framework/sample-config.php:787 framework/sample-config.php:912
+msgid "Social Share button Off?"
+msgstr ""
+
+#: framework/sample-config.php:789
+msgid "Social Share button on single portfolio"
+msgstr ""
+
+#: framework/sample-config.php:795
+msgid "Link to list portfolio page"
+msgstr ""
+
+#: framework/sample-config.php:803
+msgid "Portfolio Filter Style"
+msgstr ""
+
+#: framework/sample-config.php:811
+msgid "Filter Links Color Option"
+msgstr ""
+
+#: framework/sample-config.php:812 framework/sample-config.php:1354
+#: framework/sample-config.php:1371
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: framework/sample-config.php:813 framework/sample-config.php:1355
+#: framework/sample-config.php:1372 framework/sample-config.php:1470
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: framework/sample-config.php:826
+msgid "Filter links active color"
+msgstr ""
+
+#: framework/sample-config.php:827
+msgid "Pick the Filter links active color for the theme (default: #222)."
+msgstr ""
+
+#: framework/sample-config.php:834
+msgid "Filter links hover background color"
+msgstr ""
+
+#: framework/sample-config.php:835
+msgid ""
+"Pick the Filter links hover background color for the theme (default: #222)."
+msgstr ""
+
+#: framework/sample-config.php:842
+msgid "Filter links active background color"
+msgstr ""
+
+#: framework/sample-config.php:843
+msgid ""
+"Pick the Filter links active background color for the theme (default: #222)."
+msgstr ""
+
+#: framework/sample-config.php:852
+msgid "Blog Settings"
+msgstr ""
+
+#: framework/sample-config.php:857
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/sample-config.php:858
+msgid "Click on image layout to choose"
+msgstr ""
+
+#: framework/sample-config.php:859
+msgid "Select layout you want use for all your blog page."
+msgstr ""
+
+#: framework/sample-config.php:880 framework/sample-config.php:882
+msgid "Blog custom excerpt lenght"
+msgstr ""
+
+#: framework/sample-config.php:881
+msgid "Input Blog custom excerpt lenght"
+msgstr ""
+
+#: framework/sample-config.php:888
+msgid "Blog Button Text"
+msgstr ""
+
+#: framework/sample-config.php:889
+msgid "Leave a blank will be use translate text from language file"
+msgstr ""
+
+#: framework/sample-config.php:890
+msgid "Default button text: Read More"
+msgstr ""
+
+#: framework/sample-config.php:897
+msgid "Blog Single Page"
+msgstr ""
+
+#: framework/sample-config.php:904 framework/sample-config.php:906
+msgid "The Blog Single Title"
+msgstr ""
+
+#: framework/sample-config.php:905
+msgid "Input blog single"
+msgstr ""
+
+#: framework/sample-config.php:914
+msgid "Social Share button on single blog"
+msgstr ""
+
+#: framework/sample-config.php:921
+msgid "Blog Post Slider"
+msgstr ""
+
+#: framework/sample-config.php:928
+msgid "Slide Auto Play Off?"
+msgstr ""
+
+#: framework/sample-config.php:935
+msgid "Slide Transition Fade On?"
+msgstr ""
+
+#: framework/sample-config.php:942
+msgid "Slide Speed"
+msgstr ""
+
+#: framework/sample-config.php:943
+msgid "This slide displays the value as a speed."
+msgstr ""
+
+#: framework/sample-config.php:944
+msgid "Slider description. Min: 100, max: 3000, step: 200, default value: 200"
+msgstr ""
+
+#: framework/sample-config.php:954
+msgid "Slide Pagination Speed"
+msgstr ""
+
+#: framework/sample-config.php:955
+msgid "This slide displays the value as a pagination speed."
+msgstr ""
+
+#: framework/sample-config.php:956
+msgid "Slider description. Min: 100, max: 3000, step: 500, default value: 800"
+msgstr ""
+
+#: framework/sample-config.php:966
+msgid "Slide Rewind Speed"
+msgstr ""
+
+#: framework/sample-config.php:967
+msgid "This slide displays the value as a rewind speed."
+msgstr ""
+
+#: framework/sample-config.php:968
+msgid "Slider description. Min: 100, max: 3000, step: 500, default value: 1000"
+msgstr ""
+
+#: framework/sample-config.php:980
+msgid "Services Settings"
+msgstr ""
+
+#: framework/sample-config.php:985 framework/sample-config.php:987
+msgid "Archive Service Page Title"
+msgstr ""
+
+#: framework/sample-config.php:986
+msgid "Leave a blank will be use the_archive_title() to instead."
+msgstr ""
+
+#: framework/sample-config.php:993
+msgid "Service Button Text"
+msgstr ""
+
+#: framework/sample-config.php:994
+msgid "Leave a blank will be use translate text from language file."
+msgstr ""
+
+#: framework/sample-config.php:995
+msgid "Button Text use on Archive Service Page only"
+msgstr ""
+
+#: framework/sample-config.php:1001
+msgid "Number items per page"
+msgstr ""
+
+#: framework/sample-config.php:1002
+msgid "Leave a blank will be default: 8 items per page."
+msgstr ""
+
+#: framework/sample-config.php:1009
+msgid "Archive Service Page Style"
+msgstr ""
+
+#: framework/sample-config.php:1010
+msgid "Select Archive Service Style"
+msgstr ""
+
+#: framework/sample-config.php:1011
+msgid "Default archive service grid."
+msgstr ""
+
+#: framework/sample-config.php:1022
+msgid "Service Single"
+msgstr ""
+
+#: framework/sample-config.php:1029
+msgid "Single service option layout"
+msgstr ""
+
+#: framework/sample-config.php:1030 framework/sample-config.php:1095
+msgid "Select option: page fullwidth or page left sidebar."
+msgstr ""
+
+#: framework/sample-config.php:1031 framework/sample-config.php:1096
+msgid ""
+"Select option: page fullwidth or page left sidebar, default: page left "
+"sidebar."
+msgstr ""
+
+#: framework/sample-config.php:1053
+msgid "Style Grid"
+msgstr ""
+
+#: framework/sample-config.php:1060
+msgid "Column per Row"
+msgstr ""
+
+#: framework/sample-config.php:1062
+msgid "Setup how much column per row?"
+msgstr ""
+
+#: framework/sample-config.php:1074
+msgid "Show Image on a service post?"
+msgstr ""
+
+#: framework/sample-config.php:1076
+msgid "Select show image position of Services"
+msgstr ""
+
+#: framework/sample-config.php:1089
+msgid "Shop Settings"
+msgstr ""
+
+#: framework/sample-config.php:1094
+msgid "Shop option layout"
+msgstr ""
+
+#: framework/sample-config.php:1117
+msgid "Background Main Shop Top Page"
+msgstr ""
+
+#: framework/sample-config.php:1118
+msgid "Background Shop"
+msgstr ""
+
+#: framework/sample-config.php:1124
+msgid "Background Single Product Top Page"
+msgstr ""
+
+#: framework/sample-config.php:1125
+msgid "Background Single Product"
+msgstr ""
+
+#: framework/sample-config.php:1132
+msgid "404 Settings"
+msgstr ""
+
+#: framework/sample-config.php:1137 framework/sample-config.php:1139
+msgid "404 Title"
+msgstr ""
+
+#: framework/sample-config.php:1138
+msgid "Input 404 Title"
+msgstr ""
+
+#: framework/sample-config.php:1145 framework/sample-config.php:1147
+msgid "404 Content"
+msgstr ""
+
+#: framework/sample-config.php:1146
+msgid "Enter 404 Content"
+msgstr ""
+
+#: framework/sample-config.php:1153 framework/sample-config.php:1155
+msgid "Button Back Home"
+msgstr ""
+
+#: framework/sample-config.php:1154
+msgid "Text Button Go To Home."
+msgstr ""
+
+#: framework/sample-config.php:1162
+msgid "Social Settings"
+msgstr ""
+
+#: framework/sample-config.php:1167
+msgid "Facebook Url"
+msgstr ""
+
+#: framework/sample-config.php:1174
+msgid "Google+ Url"
+msgstr ""
+
+#: framework/sample-config.php:1181
+msgid "RSS Url"
+msgstr ""
+
+#: framework/sample-config.php:1188
+msgid "Twitter Url"
+msgstr ""
+
+#: framework/sample-config.php:1195
+msgid "Github Url"
+msgstr ""
+
+#: framework/sample-config.php:1202
+msgid "Youtube Url"
+msgstr ""
+
+#: framework/sample-config.php:1209
+msgid "Linkedin Url"
+msgstr ""
+
+#: framework/sample-config.php:1216
+msgid "Dribbble Url"
+msgstr ""
+
+#: framework/sample-config.php:1223
+msgid "Behance Url"
+msgstr ""
+
+#: framework/sample-config.php:1230
+msgid "Instagram Url"
+msgstr ""
+
+#: framework/sample-config.php:1237
+msgid "Skype Url"
+msgstr ""
+
+#: framework/sample-config.php:1244
+msgid "pinterest Url"
+msgstr ""
+
+#: framework/sample-config.php:1251
+msgid "vimeo Url"
+msgstr ""
+
+#: framework/sample-config.php:1258
+msgid "tumblr Url"
+msgstr ""
+
+#: framework/sample-config.php:1265
+msgid "soundcloud Url"
+msgstr ""
+
+#: framework/sample-config.php:1272
+msgid "lastfm Url"
+msgstr ""
+
+#: framework/sample-config.php:1279
+msgid "Add your social extend"
+msgstr ""
+
+#: framework/sample-config.php:1280
+msgid ""
+"Add your social html code here, if your social network not have on list "
+"social above."
+msgstr ""
+
+#: framework/sample-config.php:1281
+msgid ""
+"HTML code: <li><a target=\"_blank\" href=\"#\"><i class=\"fa fa-facebook\">"
+"</i></a></li>"
+msgstr ""
+
+#: framework/sample-config.php:1289
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/sample-config.php:1294
+msgid "Footer Layouts"
+msgstr ""
+
+#: framework/sample-config.php:1306
+msgid "Logo on footer layout 2"
+msgstr ""
+
+#: framework/sample-config.php:1307
+msgid "Add your logo."
+msgstr ""
+
+#: framework/sample-config.php:1313
+msgid "Footer Text Color"
+msgstr ""
+
+#: framework/sample-config.php:1314
+msgid "Pick the Footer Text color for the theme (default: #cccccc)."
+msgstr ""
+
+#: framework/sample-config.php:1321
+msgid "Footer Background Color"
+msgstr ""
+
+#: framework/sample-config.php:1322
+msgid "Pick the Footer Background color for the theme (default: #111111)."
+msgstr ""
+
+#: framework/sample-config.php:1329
+msgid "Footer Bottom Background Color"
+msgstr ""
+
+#: framework/sample-config.php:1330
+msgid ""
+"Pick the Footer Bottom Background color for the theme (default: #0b0b0b)."
+msgstr ""
+
+#: framework/sample-config.php:1337
+msgid "Footer Text"
+msgstr ""
+
+#: framework/sample-config.php:1338
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/sample-config.php:1345
+msgid "Footer Link Color"
+msgstr ""
+
+#: framework/sample-config.php:1353
+msgid "Footer Links Color Option"
+msgstr ""
+
+#: framework/sample-config.php:1370
+msgid "Social Links Color Option"
+msgstr ""
+
+#: framework/sample-config.php:1386
+msgid "Footer Border Bottom Text Link Color"
+msgstr ""
+
+#: framework/sample-config.php:1387
+msgid "Pick the Footer Bottom Background color for the theme (default: #222)."
+msgstr ""
+
+#: framework/sample-config.php:1395
+msgid "Footer Spacing"
+msgstr ""
+
+#: framework/sample-config.php:1415
+msgid "Padding Main Footer"
+msgstr ""
+
+#: framework/sample-config.php:1416 framework/sample-config.php:1440
+msgid "Allow your users to choose the spacing or margin they want."
+msgstr ""
+
+#: framework/sample-config.php:1417 framework/sample-config.php:1441
+msgid ""
+"You can enable or disable any piece of this field. Top, Right, Bottom, Left, "
+"or Units."
+msgstr ""
+
+#: framework/sample-config.php:1439
+msgid "Padding Footer Bottom"
+msgstr ""
+
+#: framework/sample-config.php:1452
+msgid "Coming Soon Settings"
+msgstr ""
+
+#: framework/sample-config.php:1461
+msgid "Upload your logo."
+msgstr ""
+
+#: framework/sample-config.php:1462
+msgid "Recommended size: Height: auto and Width: 120px"
+msgstr ""
+
+#: framework/sample-config.php:1468
+msgid "Date Option"
+msgstr ""
+
+#: framework/sample-config.php:1469
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: framework/sample-config.php:1477 framework/sample-config.php:1478
+msgid "Background Image"
+msgstr ""
+
+#: framework/sample-config.php:1479
+msgid "Use For Coming Soon Page"
+msgstr ""
+
+#: framework/sample-config.php:1485 framework/sample-config.php:1486
+msgid "Link Video MP4"
+msgstr ""
+
+#: framework/sample-config.php:1487 framework/sample-config.php:1495
+msgid "Use For Coming Soon Video"
+msgstr ""
+
+#: framework/sample-config.php:1493 framework/sample-config.php:1494
+msgid "Link Video Webm"
+msgstr ""
+
+#: framework/sample-config.php:1501 framework/sample-config.php:1502
+#: framework/sample-config.php:1503 framework/sample-config.php:1523
+#: framework/sample-config.php:1524 framework/sample-config.php:1525
+msgid "Coming Soon Title"
+msgstr ""
+
+#: framework/sample-config.php:1509 framework/sample-config.php:1510
+#: framework/sample-config.php:1511 framework/sample-config.php:1531
+#: framework/sample-config.php:1532 framework/sample-config.php:1533
+msgid "Coming Soon Subtitle"
+msgstr ""
+
+#: framework/sample-config.php:1518
+msgid "Hide Content Coming Soon Settings"
+msgstr ""
+
+#: framework/sample-config.php:1539 framework/sample-config.php:1540
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: framework/sample-config.php:1541
+msgid ""
+"Go to your contact form to copy shortcode and paste your shortcode here, Ex: "
+"[contact-form-7 id=\"283\" title=\"Contact form 1\"]"
+msgstr ""
+
+#: framework/sample-config.php:1548
+msgid "Styling Options"
+msgstr ""
+
+#: framework/sample-config.php:1553
+msgid "Theme Version"
+msgstr ""
+
+#: framework/sample-config.php:1554 framework/sample-config.php:1555
+msgid "Dark or White"
+msgstr ""
+
+#: framework/sample-config.php:1565
+msgid "Theme Main Color"
+msgstr ""
+
+#: framework/sample-config.php:1566
+msgid "Pick the main color for the theme (default: #FAB207)."
+msgstr ""
+
+#: framework/sample-config.php:1574
+msgid "Body Font"
+msgstr ""
+
+#: framework/sample-config.php:1575
+msgid "Specify the body font properties."
+msgstr ""
+
+#: framework/sample-config.php:1588
+msgid "CSS Code"
+msgstr ""
+
+#: framework/sample-config.php:1589
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/template-tags.php:13
+msgid "Home"
+msgstr ""
+
+#: framework/template-tags.php:221
+msgid "type to search&hellip;"
+msgstr ""
+
+#: framework/template-tags.php:237
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: framework/template-tags.php:245
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:8
+msgid "Fullwidth"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:11
+msgid "No"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:12
+#: framework/theme-custom-visual-template.php:24
+#: framework/theme-custom-visual-template.php:34
+#: framework/theme-custom-visual-template.php:44
+#: framework/theme-custom-visual-template.php:107
+msgid "Yes"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:14
+msgid "Select Fullwidth or not, Default: No fullwidth"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:21
+msgid "Full height?"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:23
+msgid ""
+"If checked row will be set to full height, Recommended use for Row(Section) "
+"on the top of page only."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:31
+msgid "Parallax row?"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:33
+msgid ""
+"If checked row will be set to parallax and you need add background parallax "
+"in Design Options Tab."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:41
+msgid "Put a pictures on the half Row?"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:43
+msgid ""
+"If checked row will be set to image display on the half Row(Section), read "
+"more guide: https://oceanthemes.ticksy.com/article/9870/"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:54
+msgid "Select image from media library."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:65
+msgid "Columns image"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:68
+#: framework/theme-custom-visual-template.php:88
+msgid "Default"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:69
+msgid "Image on 4 Columns"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:70
+msgid "Image on 5 Columns"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:71
+msgid "Image on 6 Columns"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:72
+msgid "Image on 7 Columns"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:74
+msgid "Select columns position within row."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:85
+msgid "Image position"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:89
+msgid "Image on Left Row"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:90
+msgid "Image on Right Row"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:92
+#: framework/theme-custom-visual-template.php:179
+msgid "Select Image position within row."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:104
+msgid "Background HTML5 Video?"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:106
+msgid ""
+"If checked row will be set to background video, that not support YouTube "
+"video, Vimeo video."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:115
+msgid "Video Background Image"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:118
+msgid ""
+"HTML5 videos will not play on mobile devices, so you need to use a "
+"background image instead."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:129
+msgid "MP4 Url"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:132
+msgid "Enter Video mp4 link url."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:144
+msgid "WEBM Url"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:147
+msgid "Enter Video webm link url."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:158
+msgid "OGG Url"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:161
+msgid "Enter Video ogg link url."
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:172
+msgid "Background Video Overlay"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:175
+msgid "Overlay"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:176
+msgid "Dotted"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:177
+msgid "Custom"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:190
+msgid "Overlay Background Image"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:193
+msgid "Select image from media library, use Overlay on Video"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:204
+msgid "Overlay Color"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:207
+msgid "Overlay Background Color"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:217
+#: framework/theme-custom-visual-template.php:252
+msgid "CSS Animation"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:220
+#: framework/theme-custom-visual-template.php:255
+msgid "None"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:221
+#: framework/theme-custom-visual-template.php:256
+msgid "Fade In Up"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:222
+#: framework/theme-custom-visual-template.php:257
+msgid "Fade In Down"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:223
+#: framework/theme-custom-visual-template.php:258
+msgid "Fade In"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:224
+#: framework/theme-custom-visual-template.php:259
+msgid "Fade In Left"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:225
+#: framework/theme-custom-visual-template.php:260
+msgid "Fade In Right"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:227
+#: framework/theme-custom-visual-template.php:262
+msgid "Select Animate , Default: None"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:232
+#: framework/theme-custom-visual-template.php:267
+msgid "Animation time delay number"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:235
+#: framework/theme-custom-visual-template.php:244
+#: framework/theme-custom-visual-template.php:270
+#: framework/theme-custom-visual-template.php:279
+msgid "Example : 0.2, 0.6, 1, etc"
+msgstr ""
+
+#: framework/theme-custom-visual-template.php:241
+#: framework/theme-custom-visual-template.php:276
+msgid "Animation time duration number"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Canvas"
+msgstr ""
+
+#. Name of the template
+msgid "Coming Soon Page"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:59
+#: page-templates/template-coming-soon-page.php:220
+#: page-templates/template-coming-soon-video.php:60
+#: page-templates/template-coming-soon-video.php:227
+msgid "days"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:64
+#: page-templates/template-coming-soon-page.php:221
+#: page-templates/template-coming-soon-video.php:65
+#: page-templates/template-coming-soon-video.php:228
+msgid "hours"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:69
+#: page-templates/template-coming-soon-page.php:222
+#: page-templates/template-coming-soon-video.php:70
+#: page-templates/template-coming-soon-video.php:229
+msgid "minutes"
+msgstr ""
+
+#: page-templates/template-coming-soon-page.php:74
+#: page-templates/template-coming-soon-page.php:223
+#: page-templates/template-coming-soon-video.php:75
+#: page-templates/template-coming-soon-video.php:230
+msgid "seconds"
+msgstr ""
+
+#. Name of the template
+msgid "Coming Soon Video"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width"
+msgstr ""
+
+#. Name of the template
+msgid "Landing Page"
+msgstr ""
+
+#. Name of the template
+msgid "One Page"
+msgstr ""
+
+#. Name of the template
+msgid "Template Shop"
+msgstr ""
+
+#. Name of the theme
+msgid "Archi"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Archi specially made for Interior Design services, Dining Room, Exterior "
+"Design, Kitchen Design, Living Room Design, Master Bedroom Design, "
+"Residential Design, Furniture Design, Office Design, Commercial Design, "
+"Hospital Design, Cottage, Architecture, contractor, construction, building, "
+"Construction &amp; Business etc… . Archi help you to build beauty and modern "
+"website in no time. Archi has beauty design and bunch of features to make "
+"your website stand out of crowd."
+msgstr ""
+
+#. URI of the theme
+msgid "http://demo.oceanthemes.net/archimate/"
+msgstr ""
+
+#. Author of the theme
+msgid "OceanThemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://oceanthemes.net/"
+msgstr ""
